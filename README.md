@@ -1,4 +1,4 @@
 resourcery
 ==========
 
-Simple Python archiving script using sqlite
+Simple Python archiving script using sqlite.
